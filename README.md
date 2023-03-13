@@ -9,4 +9,4 @@
 
 - 👯 I’m looking to collaborate!
 
-- 📫 How to reach me: twitter.com/lcpilling
+- 📷 Scanline photo from the cool R package by Chris Holmes https://github.com/cj-holmes/scanline
