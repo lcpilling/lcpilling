@@ -9,4 +9,4 @@
 
 - 👯 I’m looking to collaborate!
 
-- 📷 Scanline photo from the cool R package by Chris Holmes https://github.com/cj-holmes/scanline
+- 📷 Photo from the cool {scanline} R package by Chris Holmes https://github.com/cj-holmes/scanline
