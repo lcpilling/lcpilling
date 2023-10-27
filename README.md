@@ -7,6 +7,6 @@
     - combining genotype and medical records to understand shared biology in multimorbidity (why some diseases more commonly occur together)
     - investigating the role of 'iron overload' (haemochromatosis) on disease burden
 
-- 👯 I’m looking to collaborate!
+- 📦 I like making R package https://lukepilling.github.io
 
 - 📷 Photo from the cool {scanline} R package by Chris Holmes https://github.com/cj-holmes/scanline
